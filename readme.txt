@@ -1,3 +1,4 @@
+Used soft-voting model combining logistic regression and naive bayes to predict twitter sentiments
 
 ====usage====
 
